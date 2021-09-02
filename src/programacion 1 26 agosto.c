@@ -25,3 +25,5 @@ int main(void)
 		while(respuesta=='s');
 	return EXIT_SUCCESS;
 }
+
+
